@@ -1,24 +1,24 @@
 # SI_bulog-
 Sistem Pengantrian Beras Bulog
-# native-php-sistem-informasi-arsip-pengadilan
-Sistem Informasi Arsip Pengadilan Menggunakan PHP Murni. <br>
+# native-php-sistem-informasi-antrian
+Sistem Informasi Antrian Menggunakan PHP Murni. <br>
 Dapat dikembangan menggunakan Framework Yang disukai.
 
 Fitur :
-- Arsip Perkara 
-- Riwayat Peminjaman Arsip
-- Laporan Arsip Perkara
-- Laporan Peminjaman
+- Antrian Beras Bulog
+- Riwayat Pengambilan
+- Laporan Antrian Beras Bulog
+- Laporan Pengambilan
 - Cetak Laporan 
 
 Penampakan Sistem :
 
-![Tampilan About](https://raw.githubusercontent.com/developerkampoeng/native-php-sistem-informasi-arsip-pengadilan/master/Screenshoot/BULOG1.png)
+![Tampilan About](https://raw.githubusercontent.com/developerkampoeng/native-php-sistem-informasi-antrian/master/Screenshoot/BULOG1.png)
 
 <br>
 
-![Antrian Beras Bulog](https://raw.githubusercontent.com/developerkampoeng/native-php-sistem-informasi-arsip-pengadilan/master/Screenshoot/BULOG2.png)
+![Antrian Beras Bulog](https://raw.githubusercontent.com/developerkampoeng/native-php-sistem-informasi-antrian/master/Screenshoot/BULOG2.png)
 
 <br>
 
-![Riwayat Pengambilan](https://raw.githubusercontent.com/developerkampoeng/native-php-sistem-informasi-arsip-pengadilan/master/Screenshoot/BULOG3.png)
+![Riwayat Pengambilan](https://raw.githubusercontent.com/developerkampoeng/native-php-sistem-informasi-antrian/master/Screenshoot/BULOG3.png)
