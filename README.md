@@ -13,12 +13,12 @@ Fitur :
 
 Penampakan Sistem :
 
-![Tampilan Home](https://raw.githubusercontent.com/developerkampoeng/native-php-sistem-informasi-arsip-pengadilan/master/Screenshoot/BULOG1.png)
+![Tampilan About](https://raw.githubusercontent.com/developerkampoeng/native-php-sistem-informasi-arsip-pengadilan/master/Screenshoot/BULOG1.png)
 
 <br>
 
-![Riwayat Peminjaman Arsip](https://raw.githubusercontent.com/developerkampoeng/native-php-sistem-informasi-arsip-pengadilan/master/Screenshoot/BULOG2.png)
+![Antrian Beras Bulog](https://raw.githubusercontent.com/developerkampoeng/native-php-sistem-informasi-arsip-pengadilan/master/Screenshoot/BULOG2.png)
 
 <br>
 
-![Peminjaman Arsip](https://raw.githubusercontent.com/developerkampoeng/native-php-sistem-informasi-arsip-pengadilan/master/Screenshoot/BULOG3.png)
+![Riwayat Pengambilan](https://raw.githubusercontent.com/developerkampoeng/native-php-sistem-informasi-arsip-pengadilan/master/Screenshoot/BULOG3.png)
